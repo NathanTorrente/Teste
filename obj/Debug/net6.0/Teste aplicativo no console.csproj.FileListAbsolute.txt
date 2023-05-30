@@ -1,0 +1,15 @@
+C:\Users\2022102020009\source\repos\Teste aplicativo no console\Teste aplicativo no console\bin\Debug\net6.0\Teste aplicativo no console.exe
+C:\Users\2022102020009\source\repos\Teste aplicativo no console\Teste aplicativo no console\bin\Debug\net6.0\Teste aplicativo no console.deps.json
+C:\Users\2022102020009\source\repos\Teste aplicativo no console\Teste aplicativo no console\bin\Debug\net6.0\Teste aplicativo no console.runtimeconfig.json
+C:\Users\2022102020009\source\repos\Teste aplicativo no console\Teste aplicativo no console\bin\Debug\net6.0\Teste aplicativo no console.dll
+C:\Users\2022102020009\source\repos\Teste aplicativo no console\Teste aplicativo no console\bin\Debug\net6.0\Teste aplicativo no console.pdb
+C:\Users\2022102020009\source\repos\Teste aplicativo no console\Teste aplicativo no console\obj\Debug\net6.0\Teste aplicativo no console.csproj.AssemblyReference.cache
+C:\Users\2022102020009\source\repos\Teste aplicativo no console\Teste aplicativo no console\obj\Debug\net6.0\Teste aplicativo no console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020009\source\repos\Teste aplicativo no console\Teste aplicativo no console\obj\Debug\net6.0\Teste aplicativo no console.AssemblyInfoInputs.cache
+C:\Users\2022102020009\source\repos\Teste aplicativo no console\Teste aplicativo no console\obj\Debug\net6.0\Teste aplicativo no console.AssemblyInfo.cs
+C:\Users\2022102020009\source\repos\Teste aplicativo no console\Teste aplicativo no console\obj\Debug\net6.0\Teste aplicativo no console.csproj.CoreCompileInputs.cache
+C:\Users\2022102020009\source\repos\Teste aplicativo no console\Teste aplicativo no console\obj\Debug\net6.0\Teste aplicativo no console.dll
+C:\Users\2022102020009\source\repos\Teste aplicativo no console\Teste aplicativo no console\obj\Debug\net6.0\refint\Teste aplicativo no console.dll
+C:\Users\2022102020009\source\repos\Teste aplicativo no console\Teste aplicativo no console\obj\Debug\net6.0\Teste aplicativo no console.pdb
+C:\Users\2022102020009\source\repos\Teste aplicativo no console\Teste aplicativo no console\obj\Debug\net6.0\Teste aplicativo no console.genruntimeconfig.cache
+C:\Users\2022102020009\source\repos\Teste aplicativo no console\Teste aplicativo no console\obj\Debug\net6.0\ref\Teste aplicativo no console.dll
